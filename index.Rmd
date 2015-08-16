@@ -19,7 +19,7 @@ knit        : slidify::knit2slides
 This application is intended to present a high level view of the correlation between various stock market entities. 
 
 It uses a text/csv file as input to provide the selection lists. From the selected indexes/currency/stocks an x/y plot is produced of the closing trade (relative to the intial trade), closing return (todays close minus yesterdays close) in various formats. Also the correlation matrix is provided and a summary of each of the selected entities. It can be found at 
-
+https://kmonks.shinyapps.io/DevelopingDataProducts
 
 Sample screens follows
 
