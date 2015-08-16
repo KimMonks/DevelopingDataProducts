@@ -1,0 +1,2 @@
+"date" "coredata.sdata."
+"1" 1 "no Symbols specified"
